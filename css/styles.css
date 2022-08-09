@@ -6,6 +6,7 @@
     --color-headings: #1b0760;
     --color-body: #918ca4;
     --color-border: #ccc;
+    --color-media: #2073de;
     --border-radius: 30px;
     --font-primary: 'Inter', Arial, Helvetica, sans-serif;
 }
@@ -384,4 +385,23 @@ a {
             font-size: 1.7rem;
             display: block;
         }
+}
+
+
+/* Media */
+
+.media {
+    display: flex;
+}
+
+.media__title {
+    margin-top: 0;
+}
+
+.media__body {
+    margin: 0 2rem;
+}
+
+.media__image {
+    margin-top: 1rem;
 }
