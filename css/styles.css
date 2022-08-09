@@ -145,7 +145,7 @@ a {
 }
 
 .list--tick {
-    list-style-image: url(../icons/tick.svg);
+    list-style-image: url(../images/tick.svg);
     padding-left: 3rem;
 }
 
